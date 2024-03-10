@@ -2,6 +2,8 @@
 
 Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de AGES, onde foi minha primeira experiencia "trabalhando" com um time, tive muitos aprendizados ao longo do projeto, principalmente por colocarem pessoas que já estão acabando o curso junto com pessoas que estão no inicio de sua jornada. Foi sensacional e espero que os outros projetos que estão por vir tenham a mesma grandeza e sucesso que tivemos.
 [Projeto Comunidade Universitária](https://tools.ages.pucrs.br/comunidade-universitaria/wiki/-/wikis/home)
+
+Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/)
 <!--
 **MarquIln/MarquIln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
