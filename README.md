@@ -17,10 +17,9 @@ Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](h
   <img align="center" alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 </div>
 <br>
-
 <div></br>
-  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=Marquilni&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marquiln&layout=compact&langs_count=16&theme=tokyonight" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=MarquIln&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquIln&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
 
 
