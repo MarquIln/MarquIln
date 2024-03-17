@@ -3,7 +3,9 @@
 Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de AGES, onde foi minha primeira experiencia "trabalhando" com um time, tive muitos aprendizados ao longo do projeto, principalmente por colocarem pessoas que já estão acabando o curso junto com pessoas que estão no inicio de sua jornada. Foi sensacional e espero que os outros projetos que estão por vir tenham a mesma grandeza e sucesso que tivemos.
 [Projeto Comunidade Universitária](https://tools.ages.pucrs.br/comunidade-universitaria/wiki/-/wikis/home)
 
-Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/)
+Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/), um projeto basico de QUIZ de perguntas e respostas que podem ser selecionadas varias categorias e as dificuldades das perguntas. 
+
+Estou agora desenvolvendo um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do Counter-Strike. Mesmo com algumas dificuldades o projeto esta indo bem e em breve estara online...
 
 
 <!--
