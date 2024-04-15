@@ -6,6 +6,7 @@ Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de
 Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/), um projeto basico de QUIZ de perguntas e respostas que podem ser selecionadas varias categorias e as dificuldades das perguntas. 
 
 Estou agora desenvolvendo um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do Counter-Strike. Mesmo com algumas dificuldades o projeto esta indo bem e em breve estara online...
+[Guess CS:GO SKIN](https://guesscskins.netlify.app/)
 
 
 <!--
