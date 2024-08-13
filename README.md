@@ -5,7 +5,7 @@ Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de
 
 Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/), um projeto basico de QUIZ de perguntas e respostas que podem ser selecionadas varias categorias e as dificuldades das perguntas. 
 
-Estou agora desenvolvendo um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do Counter-Strike.[Guess CS:GO SKIN](https://guesscskins.netlify.app/)
+Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do jogo Counter-Strike.[Guess CS:GO SKIN] (https://guesscskins.netlify.app/)
 
 Hoje em dia estou em um projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo eh fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
 
