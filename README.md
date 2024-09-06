@@ -9,6 +9,7 @@ Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/w
 
 Fiz um segundo projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo é fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
 
+Atualmente estou desenvolvendo um 
 
 <!--
 **MarquIln/MarquIln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
