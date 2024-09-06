@@ -1,4 +1,4 @@
-### Oi, me chamo Marcos Raach, sou estudante de Engenharia de Software na PUCRS, e aqui estão alguns dos meus repositorios.
+### Oi, me chamo Marcos Raach, sou estudante de Engenharia de Software na PUCRS, e aqui estão os projetos mais interessantes que eu ja fiz/participei.
 
 Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de [AGES](https://www.ages.pucrs.br/), onde foi minha primeira experiencia "trabalhando" com um time, tive muitos aprendizados ao longo do projeto, principalmente por colocarem pessoas que já estão acabando o curso junto com pessoas que estão no inicio de sua jornada. Foi sensacional e espero que os outros projetos que estão por vir tenham a mesma grandeza e sucesso que tivemos. O projeto foi feito em React Native na parte do front-end e para o backend foi escolhido o Typescript, juntamente ao Nest.js como o seu framework.
 [Projeto Comunidade Universitária](https://tools.ages.pucrs.br/comunidade-universitaria/wiki/-/wikis/home)
