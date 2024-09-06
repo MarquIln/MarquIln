@@ -7,7 +7,7 @@ Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](h
 
 Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do jogo Counter-Strike.[Guess CS:GO SKIN] (https://guesscskins.netlify.app/)
 
-Hoje em dia estou em um projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo eh fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
+Fiz um segundo projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo é fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
 
 
 <!--
