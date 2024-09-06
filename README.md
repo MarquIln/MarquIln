@@ -9,7 +9,7 @@ Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/w
 
 Fiz um segundo projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo é fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
 
-Atualmente estou desenvolvendo um jogo web, que é baseado no jogo que ficou conhecido no Brasil inteiro em uma reportagem no Fantastico, o "Fortune Tiger" (tigrinho), o intuito do projeto é mostrar que todos os "jogos de azar" sao feitos para o usuario perder e que nao existe uma maneira milagrosa de ganhar do script que é implementado pelas grandes produtoras de "jogos de azar". O projeto ainda esta em desenvolvimento... em breve vai estar no ar. Aguarde!
+Atualmente estou desenvolvendo um jogo web, que é baseado no jogo que ficou conhecido no Brasil inteiro em uma reportagem no Fantastico, o "Fortune Tiger" (tigrinho), o intuito do projeto é mostrar que todos os "jogos de azar" sao feitos para o usuario perder e que nao existe uma maneira milagrosa de ganhar do script que é implementado pelas grandes produtoras de "jogos de azar" e olha que eles tem muito mais dinheiro que eu para investir nisso. O projeto ainda esta em desenvolvimento... em breve vai estar no ar. Aguarde!
 
 <!--
 **MarquIln/MarquIln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
