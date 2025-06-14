@@ -1,18 +1,24 @@
-### Oi, me chamo Marcos Raach, sou estudante de Engenharia de Software na PUCRS, e aqui estão os projetos mais interessantes que eu ja fiz/participei.
+### Olá! Eu sou Marcos Raach  
+Estudante de Engenharia de Software na PUCRS. A seguir, você encontra alguns dos projetos mais marcantes em que tive a oportunidade de trabalhar:
 
-Aqui está o maior projeto em que ja participei, um projeto da PUCRS, chamado de [AGES](https://www.ages.pucrs.br/), onde foi minha primeira experiencia "trabalhando" com um time, tive muitos aprendizados ao longo do projeto, principalmente por colocarem pessoas que já estão acabando o curso junto com pessoas que estão no inicio de sua jornada. Foi sensacional e espero que os outros projetos que estão por vir tenham a mesma grandeza e sucesso que tivemos. O projeto foi feito em React Native na parte do front-end e para o backend foi escolhido o Typescript, juntamente ao Nest.js como o seu framework.
-[Projeto Comunidade Universitária](https://tools.ages.pucrs.br/comunidade-universitaria/wiki/-/wikis/home)
+- **AGES** ([acesse o site](https://www.ages.pucrs.br/))  
+  Meu primeiro grande projeto em equipe, realizado na PUCRS. Foi uma experiência incrível — pude colaborar com colegas em diferentes fases do curso e aprender a dinâmica de um time real.  
+  - **Tecnologias**: React Native no front-end; TypeScript + Nest.js no back-end.  
+  - **Subprojeto: Comunidade Universitária** ([wiki](https://tools.ages.pucrs.br/comunidade-universitaria/wiki/-/wikis/home))
 
-Projeto que eu e meu amigo fizemos em pair-programming com React [Trivia Quiz](https://trivia-quiz-seven.vercel.app/), um projeto basico de QUIZ de perguntas e respostas que podem ser selecionadas varias categorias e as dificuldades das perguntas. 
+- **Trivia Quiz** ([ver demo](https://trivia-quiz-seven.vercel.app/))  
+  Desenvolvido em pair-programming com um colega, usando React. Um quiz de perguntas e respostas com seleção de categorias e níveis de dificuldade, ideal para exercitar o conhecimento de forma divertida.
 
-Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/who-are-ya/) mas ao inves de jogadores de futebol, são skins do jogo Counter-Strike.[Guess CS:GO SKIN] (https://guesscskins.netlify.app/)
+- **Guess CS:GO SKIN** ([experimente aqui](https://guesscskins.netlify.app/))  
+  Inspirado no “WhoAreYa”, mas focado em skins do Counter-Strike. Teste sua capacidade de reconhecimento de padrões em ilustrações de itens do jogo.
 
-Fiz um segundo projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo é fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
+- **Excedentes** ([wiki](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home))  
+  Segundo projeto dentro do AGES, voltado para combater o desperdício de alimentos. O app conecta consumidores a estabelecimentos que oferecem produtos próximos ao vencimento por preços acessíveis, ajudando a reduzir o impacto ambiental.
 
-## Apple Developer Academy – PUCRS
-Atualmente, sou membro da **Apple Developer Academy da PUCRS**, onde estou aprofundando meus conhecimentos em Swift, SwiftUI e melhores práticas de desenvolvimento de apps para iOS. É uma experiência incrível, que eleva ainda mais meu nível técnico e criativo.
+---
 
-Em breve, adicionarei **links para download** de todos os aplicativos que estamos desenvolvendo que irão para a App Store. Fique de olho aqui para testar nossas criações em primeira mão! 🚀
+## Apple Developer Academy – PUCRS  
+Atualmente, participo da **Apple Developer Academy da PUCRS**, onde aprofundo meus conhecimentos em Swift, SwiftUI e nas melhores práticas de desenvolvimento para iOS. Em breve, adicionarei **links de download** dos aplicativos que estamos criando para a App Store. Fique de olho para testar nossas novidades! 🚀  
 
 <!--
 **MarquIln/MarquIln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
