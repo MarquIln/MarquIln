@@ -9,7 +9,10 @@ Desenvolvi um projeto bem parecido com o [WhoAreYa](https://playfootball.games/w
 
 Fiz um segundo projeto também da AGES, que tem como ideia uma solução para os desafios globais de desperdício de alimentos, fome e mudanças climáticas. A principal ideia do aplicativo é fornecer alimentos que estao proximos ao vencimento por um preço mais acessível. [Projeto Excedentes](https://tools.ages.pucrs.br/excedentes/wiki/-/wikis/home)
 
-Atualmente estou desenvolvendo um jogo web, que é baseado no jogo que ficou conhecido no Brasil inteiro em uma reportagem no Fantastico, o "Fortune Tiger" (tigrinho), o intuito do projeto é mostrar que todos os "jogos de azar" sao feitos para o usuario perder e que nao existe uma maneira milagrosa de ganhar do script que é implementado pelas grandes produtoras de "jogos de azar" e olha que eles tem muito mais dinheiro que eu para investir nisso. O projeto ainda esta em desenvolvimento... em breve vai estar no ar. Aguarde!
+## Apple Developer Academy – PUCRS
+Atualmente, sou membro da **Apple Developer Academy da PUCRS**, onde estou aprofundando meus conhecimentos em Swift, SwiftUI e melhores práticas de desenvolvimento de apps para iOS. É uma experiência incrível, que eleva ainda mais meu nível técnico e criativo.
+
+Em breve, adicionarei **links para download** de todos os aplicativos que estamos desenvolvendo que irão para a App Store. Fique de olho aqui para testar nossas criações em primeira mão! 🚀
 
 <!--
 **MarquIln/MarquIln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
