@@ -1,6 +1,19 @@
-### Olá! Eu sou Marcos Raach  
-Estudante de Engenharia de Software na PUCRS. A seguir, você encontra alguns dos projetos mais marcantes em que tive a oportunidade de trabalhar:
+### Hi there! I'm Marcos Raach
 
+ <div align="center">
+  <a href="https://github.com/MarquIln">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarquIln&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarquIln&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+  
+##
+  
+  <div>
+    <a href = "mailto:marcosraach.1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marcosraach/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
+
+  
 - **AGES** ([acesse o site](https://www.ages.pucrs.br/))  
   Meu primeiro grande projeto em equipe, realizado na PUCRS. Foi uma experiência incrível — pude colaborar com colegas em diferentes fases do curso e aprender a dinâmica de um time real.  
   - **Tecnologias**: React Native no front-end; TypeScript + Nest.js no back-end.  
