@@ -20,21 +20,16 @@ A definitive guide designed for fans of junior categories like Formula 2, Formul
 
 I have worked on several other projects ranging from web solutions to experimental mobile apps. To see my full timeline and detailed case studies, please visit my personal website:
 
-[**Access Portfolio**]()
+[**Access Portfolio**](https://marquiln.github.io/portfolio-marcos/)
 
 ---
 
 #### Technical Skills
 
 **Mobile Development**
-Swift, SwiftUI, UIKit, SceneKit, GameKit, CoreML, CloudKit.
+Swift, SwiftUI, UIKit, SceneKit, GameKit, CloudKit.
 
 **Architecture & Design**
 Clean Architecture, MVVM, Human Interface Guidelines (HIG), Figma.
 
-**Tools & Others**
-Git, XCode, Scrum/Agile Methodologies.
-
 ---
-
-[**My GitHub**](https://github.com/MarquIln)
