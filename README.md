@@ -7,8 +7,11 @@ Currently, I am dedicating my time to mastering Swift and SwiftUI, exploring the
 #### Featured Work
 
 **Retro Trip**
-*Available on the App Store*
+*Available on the App Store* 
 An immersive educational experience that combines 3D visualization with interactive learning. This project challenges the boundaries of mobile education using SwiftUI, SceneKit, and GameKit to create a visually engaging environment.
+
+If you wanna help us to improve our app, please download the testflghit version and send us your feedback [**Test Flight**](https://testflight.apple.com/join/hU6nTt1M)
+
 
 **Rotta**
 *Motorsport Guide*
