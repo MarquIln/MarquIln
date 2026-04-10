@@ -2,7 +2,7 @@
 
 iOS Developer | Software Engineering @ PUCRS | Apple Developer Academy
 
-[![Portfolio Preview](./assets/portfolio-preview.png)](https://marquiln.github.io/portfolio-marcos/)
+[![Portfolio Preview](./portfolio-preview.png)](https://marquiln.github.io/portfolio-marcos/)
 
 ## Stack
 Swift, SwiftUI, UIKit, SpriteKit, SceneKit, CloudKit, Figma, React, React Native, Typescript
